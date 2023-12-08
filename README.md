@@ -207,3 +207,5 @@ This endpoint handles the password reset process by updating the user's password
 ## Conclusion
 
 we've covered the implementation of a secure authentication system using Node.js, Express, bcrypt, JWT, and MySQL. This system provides user registration, login, and password reset functionalities while ensuring data security through proper encryption and token-based authentication
+
+Refer server.js file for entire code
